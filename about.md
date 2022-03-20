@@ -33,22 +33,22 @@ that tried and failed to make it in those challenging landscapes.
 A) It is too complex for non-scientists to understand. 
 B) It is the force that pushes human society forward. 
 C) It is a unique trait specific to the human race. 
-D) It is often the major cause for human failures. 
+D) It is often the major cause for human failures.   
 52. What is the general understanding of curiosity?   
 A) It motivates people to seek information. 
 B) It is destined to transform human genes. 
 C) It does people more good than harm. 
-D) It underlies all human behaviors. 
+D) It underlies all human behaviors.   
 53. What do we learn about how genes shape people's behavior?   
 A) They determine people's way of thinking. 
 B) They account for age differences in learning. 
 C) They enable people to undertake massive tasks. 
-D) They work in conjunction with the environment. 
+D) They work in conjunction with the environment.   
 54. What do numerous studies show about infants?   
 A) They are far more curious than adults. 
 B) They prefer to go after all that is novel. 
 C) They have different interests than adults. 
-D) They show non-human animal behaviors. 
+D) They show non-human animal behaviors.   
 55. What does the example of the Inuit people of the Arctic regions illustrate?   
 A) The cost of humans' curiosity to explore. 
 B) The incredible harshness of cold weather. 

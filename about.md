@@ -19,23 +19,31 @@ We have notified our customers that their pets arrived safely.
 We will arrange to return the pets to them as soon as possible ," a spokesperson of United Airlines said.     
   
 Questions 1 and 2 are based on the news report you have just heard. 
-1. A) It found a pet dog on board a plane to a city in Texas. 
-B) It had one of its cargo planes land at a wrong airport. 
-C) It sent two dogs to the wrong destinations. 
-D) It had two of its domestic flights mixed up. 
-2. A) Correct their mistake as soon as possible. 
-B) Give the two pets a physical checkup. 
+1. A) It found a pet dog on board a plane to a city in Texas.   
+B) It had one of its cargo planes land at a wrong airport.   
+C) It sent two dogs to the wrong destinations.   
+D) It had two of its domestic flights mixed up.   
+  
+2. A) Correct their mistake as soon as possible.   
+B) Give the two pets a physical checkup.   
 C) Hire a charter jet to bring the pets back. 
-D) Send another plane to continue the flight. 
-Questions 3 and 4 are based on the news report you have just heard. 
-3. A) She weighs 130 kilograms. C) She was brought from Africa. 
-B) She has had babies before. D) She has a big family of six. 
-4. A) It took 22 hours. C) It was smooth. 
-B) It had some complications. D) It was monitored by Dr.Sue Tygielski. 
-Questions 5 to 7 are based on the news report you have just heard. 
-5. A) It enjoyed great popularity. C) It was frequented by newly-weds. 
-B) It started business three years ago. D) It was built above the sea-water. 
-6. A) Expand his business on the beach. 
-B) Replace the restaurant's wooden deck. 
-C) Post a picture of his restaurant online. 
-D) Celebrate his silver wedding anniversary. 
+D) Send another plane to continue the flight.   
+  
+Questions 3 and 4 are based on the news report you have just heard.   
+3. A) She weighs 130 kilograms.   C) She was brought from Africa. 
+B) She has had babies before.   D) She has a big family of six.  
+  
+4. A) It took 22 hours.   C) It was smooth.   
+B) It had some complications.   D) It was monitored by Dr.Sue Tygielski.  
+  
+Questions 5 to 7 are based on the news report you have just heard.   
+5. A) It enjoyed great popularity.   C) It was frequented by newly-weds.   
+B) It started business three years ago.   D) It was built above the sea-water.   
+  
+6. A) Expand his business on the beach.   
+B) Replace the restaurant's wooden deck.   
+C) Post a picture of his restaurant online.   
+D) Celebrate his silver wedding anniversary.  
+  
+7. A) She sold it for two thousand dollars.   C) She posted its picture on Facebook.   
+B) She took it to the restaurant manager.   D) She returned it to its owner right away.   

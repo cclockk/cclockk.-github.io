@@ -3,47 +3,36 @@
 This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
 
 
-(1.1) United Airlines has apologised for mistakenly shipping an American family's pet dog thousands of miles in the wrong direction to Japan.   
-The dog owner's beloved 10-year-old dog named Buddy took an unexpected 16-hour flight to Tokyo following a mix-up by the airline.   
-The dog owner's family are currently in the process of moving.   
-They were meant to be reunited with the pet in their new home city in Texas.   
-But when they arrived at the United Airlines cargo facility in the southern U. S. state, they found a stranger's dog waiting in Buddy's place.    
+How to not be boring 
+A) Humans are creatures of habit. We love to establish a routine and stick with it.   
+Then we often put ourselves on auto-pilot. Routines can be incredibly useful in helping you getthings done.   
+However, too much of a routine can also make you incredibly boring.  
+Nevertheless, many people live lives that are boringly predictable, or live a life where everything is outlined or planned.
+    
+B) To tell the truth, interesting people are more popular among their friends.  
+If you don't arouse someone's curiosity or brighten someone's day, you probably come across asbeing a little bit dull.     
+But that doesn't mean your life has ended and you can't do anything to change it.   
+If you find yourself searching for something to say beyond small talk, try these tactics to find more interesting approaches to conversation.
+    
+C) Recently, I was at a gathering of colleagues when someone turned to me and asked,  
+"So, what's new with you?" Ordinarily, I think I'm a good conversationalist.   
+After all,it's literally my job to talk to people and tell their stories or share their advice. 
+And that's not exactly an unexpected question.   
+Still, the only "new-to-me" topics that came to mind were my daughter's basketball tournament（锦标赛）  
+and my feelings about that morning's political headlines- neither amusing nor appropriate topics at that moment.
+    
+D) Oh, no, I thought. Have I become boring?   
+But sharing our experiences in an authentic way to connect with other people is what makes us interesting, 
+says associate professor Michael Pirson.   
+The hesitation I felt in not sharing the ordinary things that were happening in my life,   
+and the wild mental search for something more interesting, may have backfired and made me seem less interesting.  
   
-(1-2)Both of the dogs had been sent to the wrong destinations on connecting flights from Denver, with Buddy mistakenly being sent to Japan instead.   
-Buddy was given a physical checkup when he arrived at Tokyo's International Airport.   
-The dog was then sent back to the U. S. on a private charter jet.   
-"I'm so glad he's alive and coming home soon ! " said the relieved dog owner.   
+E) "If someone is making up some conversation that might be interesting, it's probably not going to land well," says Pirson,   
+whose expertise includes trust and well-being,mindfulness, and humanistic management.   
+"It's going to feel like a made-up conversation that people don't necessarily want to tune in to ."  
   
-(2)"And an error occurred during the connections in Denver.   
-We have notified our customers that their pets arrived safely.   
-We will arrange to return the pets to them as soon as possible ," a spokesperson of United Airlines said.     
-  
-Questions 1 and 2 are based on the news report you have just heard. 
-1. A) It found a pet dog on board a plane to a city in Texas.   
-B) It had one of its cargo planes land at a wrong airport.   
-C) It sent two dogs to the wrong destinations.   
-D) It had two of its domestic flights mixed up.   
-  
-2. A) Correct their mistake as soon as possible.   
-B) Give the two pets a physical checkup.   
-C) Hire a charter jet to bring the pets back. 
-D) Send another plane to continue the flight.   
-  
-Questions 3 and 4 are based on the news report you have just heard.   
-3. A) She weighs 130 kilograms.   C) She was brought from Africa. 
-B) She has had babies before.   D) She has a big family of six.  
-  
-4. A) It took 22 hours.   C) It was smooth.   
-B) It had some complications.   D) It was monitored by Dr.Sue Tygielski.  
-  
-Questions 5 to 7 are based on the news report you have just heard.   
-5. A) It enjoyed great popularity.   C) It was frequented by newly-weds.   
-B) It started business three years ago.   D) It was built above the sea-water.   
-  
-6. A) Expand his business on the beach.   
-B) Replace the restaurant's wooden deck.   
-C) Post a picture of his restaurant online.   
-D) Celebrate his silver wedding anniversary.  
-  
-7. A) She sold it for two thousand dollars.   C) She posted its picture on Facebook.   
-B) She took it to the restaurant manager.   D) She returned it to its owner right away.   
+F) The most interesting people aren't those who've gone on some Eat, Pray, Love journey to find themselves. 
+Instead, Pirson says, they're those who examine the ordinary.   
+"Often,the 'boring things' may not be boring at all. Maybe they are actually little miracles," he says.   
+Share your observations about the world around you —interesting stories you heard or things you noticed—and you may be surprised by the universal connection
+they inspire.

@@ -3,7 +3,8 @@
 This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
 
 
-How to not be boring 
+How to not be boring  
+  
 A) Humans are creatures of habit. We love to establish a routine and stick with it.   
 Then we often put ourselves on auto-pilot. Routines can be incredibly useful in helping you getthings done.   
 However, too much of a routine can also make you incredibly boring.  

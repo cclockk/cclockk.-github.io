@@ -30,33 +30,33 @@ What's more, making obesity a disease
 clinical guidelines promote treatment with drugs and surgery," he warns.  
 
 
-46. What does Professor John Wilding argue about obesity?
-  A) Its impact on society is expected to rise.
-  B) It is now too widespread to be neglected.
-  C) It should be regarded as a genetic sease.
-  D) Its dictionary definition should be updated.
+46. What does Professor John Wilding argue about obesity?  
+  A) Its impact on society is expected to rise.  
+  B) It is now too widespread to be neglected.  
+  C) It should be regarded as a genetic sease.  
+  D) Its dictionary definition should be updated.  
     
-47. What is the popular view of obesity?
-  A) It is difficult to define.
-  B) It is a modem disease.
-  C) It has much to do with one's genes.
-  D) It results from a lack of self-control.
+47. What is the popular view of obesity?  
+  A) It is difficult to define.  
+  B) It is a modem disease.  
+  C) It has much to do with one's genes.  
+  D) It results from a lack of self-control.  
     
-48. Why are some people opposed to labelling obesity as a disease?
-  A) Obese people would not feel responsible to take any action
-  B) Obese people would not be able to afford the medical costs.
-  C) Obese people would be overwhelmed with anxiety.
-  D) Obese people would be discriminated against.
+48. Why are some people opposed to labelling obesity as a disease?  
+  A) Obese people would not feel responsible to take any action  
+  B) Obese people would not be able to afford the medical costs.  
+  C) Obese people would be overwhelmed with anxiety.  
+  D) Obese people would be discriminated against.  
   
   
-49. What does Dr. Richard Pile think of the dictionary definition of disease?
-  A) It is of no use in understanding obesity.
-  B) It is too inclusive and thus lacks clarity.
-  C) It helps little to solve patients' problems
-  D) It matters little to the debate over obesity.
+49. What does Dr. Richard Pile think of the dictionary definition of disease?  
+  A) It is of no use in understanding obesity.  
+  B) It is too inclusive and thus lacks clarity.  
+  C) It helps little to solve patients' problems.  
+  D) It matters little to the debate over obesity.  
     
-50. What is Dr. Richard Pile's concern about classifying obesity as a disease?
-  A) It may affect obese people's quality of life. 
-  B) It may accelerate the spread of obesity. 
-  C) It may cause a shortage of doctors.
+50. What is Dr. Richard Pile's concern about classifying obesity as a disease?  
+  A) It may affect obese people's quality of life.   
+  B) It may accelerate the spread of obesity.   
+  C) It may cause a shortage of doctors.  
   D) It may do little good to patients.

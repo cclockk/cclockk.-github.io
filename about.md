@@ -3,74 +3,60 @@
 This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
 
   
-G) This is essentially how Jessica Hagy starts her day. The author of How to Be Interesting:  
-An Instruction Manual, Hagy spends a lot of time thinking about what's interesting to her.   
-People who are interesting are persistently curious, she says.  
-  
-H) Think about the everyday things around you and ask questions about them.   
-What is that roadside monument I see on my way to work every day?   
-Who built that interesting building in my city? What nearby attractions haven't I visited?   
-Why do people do things that way?   
-Use what you find to ask more questions and learn more about the world around you.   
-"Having that sort of curiosity is almost like a protective gear from getting into boredom," she says.   
-And when you find things that are truly interesting to you,share them.  
-  
-I) Television veteran Audrey Morrissey, executive producer of NBC's The Voice, 
-is always looking for what will make a person or story interesting to viewers: It's usually a matter of individuality. 
-"Having a strong point of view, signature style, or being a super-enthusiast in a particular field makes someone interesting," she says. 
-That means embracing what is truly interesting or unique about yourself. 
-"Many people are'not boring' in the way that they can carry a conversation or can be good at a social gathering, etc. 
-To be interesting means that you have lived life, taken risks, traveled,
-sought out experience to learn for yourself and share with others," she says.
-  
-J) Of course, it's possible to be a fountain of knowledge and a boring person, says public relations consultant Andrea Pass.   
-Paying attention to the listener is an important part of having a conversation that's interesting to both parties.   
-Talking on and on about what's interesting to you isn't going to make you an interesting person, she says.  
-  
-K) "If the listener is not paying attention, it's your sign to shorten the story or change direction.   
-Make sure to bring the audience into the conversation so that it is not one-sided," Pass says.   
-Be a better listener yourself,   
-and give others opportunities to participate in the conversation   
-by inviting them with questions or requests to share their own experiences or thoughts.   
-(e. g., "Now, tell me about your favorite book," or "Have you ever been to that attraction?")   
-Questions are a powerful tool, especially when they encourage others to disclose information about themselves.   
-A 2012 study from the University of California, Santa Barbara, found that roughly 40% of the time we are talking,   
-we're disclosing subjective information about our experience.   
-And when we're doing so, our brains are more engaged.   
-So one strategy to leave others with the impression that you're a sparkling conversation partner is to get others to talk about themselves.
-  
-L) Being relatable is also essential, Morrissey says.   
-"The best entertainment and storytelling comes from people   
-who are relatable- those who don't shy away from opening up but freely share   
-who they are and what they care about.   
-These are the people viewer  most relate to and find interesting.   
-Being authentic, honest, and vulnerable is always interesting."  
+With obesity now affecting 29% of the population in England, and expected to rise to 35% by 2030, should we now recognise it as a disease? 
+Obesity, in which excess body fat has accumulated to such an extent that health may be adversely affected, 
+meets the dictionary definition of disease, argues Professor John Wilding. 
+He points out that more than 200 genes influence weight. 
+"Thus body weight is strongly influenced by biology- it is not an individual's fault if they develop obesity." 
+Yet the widespread view is that obesity is self-induced and that it is entirely the individual's responsibility to do something about it.
+Recognising obesity as a chronic disease with severe complications rather than a lifestyle choice 
+“should help reduce the stigma(耻辱） and discrimination experienced by many people with obesity,"he adds.
 
-M) I have now come to realize that being boring, in actuality, is not only about who you are
-as a person, but also how you present yourself. No matter what, make sure you are
-having fun in life. Because when you are enjoying, people around you will begin to
-enjoy as well. Show some interest in them and they will definitely show some in you.
-If you are a very reserved person, this could be a little difficult at first. But with a little
-effort, you can definitely improve.  
-  
-36. Pirson claims that some ordinary things may often prove to be miraculously interesting.
-  
-37. To make a conversation interesting, it is important that you listen to the other party attentively.
-  
-38. A person who is unable to stimulate others'curiosity or make their life enjoyable may appear somewhat boring.
-  
-39. Interesting people usually possess certain unique qualities, according to a TV program producer.
-  
-40. Be interested in others and they are sure to be interested in you.
-  
-41. The author considers himself usually good at conducting conversations.
-  
-42. Interesting people are always full of curiosity 
-  
-43. Falling into a routine can tum a person into an utter bore.
-  
-44. One strategy to be a good conversationalist is to motivate your partner to tell their own stories.
-  
-45. Interesting as it might appear, a made-up conversation will probably turn out to be dull
+Professor Wilding disagrees that labelling a high proportion of the population as having a disease removes personal responsibility or may overwhelm health services,
+pointing out that other common diseases, such as high blood pressure and diabetes, 
+require people to take action to manage their condition. 
+He suggests that most people with obesity will eventually develop complications. 
+"But unless we accept that obesity is a disease, we are not going to be able to tackle it," he concludes.
+But Dr. Richard Pile, a physician with a special interest in diabetes, argues that adopting this approach 
+"could actually result in worse outcomes for individuals and society." 
+He believes that the dictionary definition of disease "is so vague that we can classify almost anything as a disease" 
+and says the question is not whether we can, 
+but whether we should, and to what end.
+If labelling obesity as a disease was harmless then it wouldn't really matter, he writes.
+But labelling obesity as a disease 
+"risks reducing autonomy, disempowering and robbing people of the intrinsic(内在的）motivation that is such an important enabler of change.”
+What's more, making obesity a disease 
+"may not benefit patients, but it will benefit healthcare providers and the pharmaceutical(制药的)industry when health insurance and
+clinical guidelines promote treatment with drugs and surgery," he warns.
 
 
+46. What does Professor John Wilding argue about obesity?
+  A) Its impact on society is expected to rise.
+  B) It is now too widespread to be neglected.
+  C) It should be regarded as a genetic sease.
+  D) Its dictionary definition should be updated.
+    
+47. What is the popular view of obesity?
+  A) It is difficult to define.
+  B) It is a modem disease.
+  C) It has much to do with one's genes.
+  D) It results from a lack of self-control.
+    
+48. Why are some people opposed to labelling obesity as a disease?
+  A) Obese people would not feel responsible to take any action
+  B) Obese people would not be able to afford the medical costs.
+  C) Obese people would be overwhelmed with anxiety.
+  D) Obese people would be discriminated against.
+  
+  
+49. What does Dr. Richard Pile think of the dictionary definition of disease?
+  A) It is of no use in understanding obesity.
+  B) It is too inclusive and thus lacks clarity.
+  C) It helps little to solve patients' problems
+  D) It matters little to the debate over obesity.
+    
+50. What is Dr. Richard Pile's concern about classifying obesity as a disease?
+  A) It may affect obese people's quality of life. 
+  B) It may accelerate the spread of obesity. 
+  C) It may cause a shortage of doctors.
+  D) It may do little good to patients.

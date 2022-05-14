@@ -13,9 +13,9 @@ Recognising obesity as a chronic disease with severe complications rather than a
 “should help reduce the stigma(耻辱） and discrimination experienced by many people with obesity,"he adds.  
   
 Professor Wilding disagrees that labelling a high proportion of the population 
-as having a disease removes personal responsibility 
-or may overwhelm health services, 
-pointing out that other common diseases, such as high blood pressure and diabetes,   
+as having a disease removes personal responsibility   
+or may overwhelm health services,   
+pointing out that other common diseases, such as high blood pressure and diabetes,     
 require people to take action to manage their condition.   
 He suggests that most people with obesity will eventually develop complications.   
 "But unless we accept that obesity is a disease, we are not going to be able to tackle it," he concludes.  

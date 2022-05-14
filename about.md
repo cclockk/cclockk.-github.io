@@ -12,7 +12,9 @@ Yet the widespread view is that obesity is self-induced and that it is entirely 
 Recognising obesity as a chronic disease with severe complications rather than a lifestyle choice   
 “should help reduce the stigma(耻辱） and discrimination experienced by many people with obesity,"he adds.  
   
-Professor Wilding disagrees that labelling a high proportion of the population as having a disease removes personal responsibility or may overwhelm health services, 
+Professor Wilding disagrees that labelling a high proportion of the population 
+as having a disease removes personal responsibility 
+or may overwhelm health services, 
 pointing out that other common diseases, such as high blood pressure and diabetes,   
 require people to take action to manage their condition.   
 He suggests that most people with obesity will eventually develop complications.   

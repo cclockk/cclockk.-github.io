@@ -23,6 +23,6 @@ They had four children, including the twins,
 Hamnet and Judith. Nothing is known of the period between the birth of the twins  
 and Shakespeare's emergence as a dramatist in London in the early 1590s.  
 In a million words written over 20 years, he captured the full range of human emotions  
-and conflicts with a probably that remains sharp today.   
+and conflicts with a precision that remains sharp today.   
 As his great contemporary the poet and dramatist Ben Jonson said,   
 "He was not of an age, but for all time.  

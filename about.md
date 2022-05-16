@@ -2,27 +2,27 @@
 
 This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
 
-It is commonly believed that the great English dramatist   
-and poet William Shakespeare was born in Stratford-on-Avon on April 23, 1564.   
-But it is impossible to know the exact day on which he was born.  
-Church records show he was baptized（ 施洗礼） on April 26,   
-and three days was a customary amount of time to wait before baptizing a newly born baby.   
-Shakespeare's conclusively known, however: it was April 23, 1616.   
-He was 52 and had retired date of death is to Stratford three years before.  
-    
-Although few plays have been performed or analyzed as extensively as the 38 plays Shakespeare wrote,   
-there are few surviving details about his life.   
-This scarcity of biographical information is due primarily to his social position;   
-he was not a noble, but the son of a leather trader.   
-    
-Shakespeare probably attended the grammar school in Stratford,   
-where he would have studied Latin and read classical literature.   
-He did not go to university and at age 18 married Anne Hathaway,   
-who was eight years his senior.   
-They had four children, including the twins,   
-Hamnet and Judith. Nothing is known of the period between the birth of the twins  
-and Shakespeare's emergence as a dramatist in London in the early 1590s.  
-In a million words written over 20 years, he captured the full range of human emotions  
-and conflicts with a precision that remains sharp today.   
-As his great contemporary the poet and dramatist Ben Jonson said,   
-"He was not of an age, but for all time.  
+Section A
+(1)A 22-year-old Chinese woman who suffered from a persistent cough was shocked to learn that she had apiece of chicken bone lodged in her lung.
+The unnamed woman, from the province of Shandong, started to have coughing problems when she was 7 or 8 years old.
+For 14 years, she made numerous hospital visits.
+However, no doctor could identify anyproblem.
+Her uncontrollable coughing was a mystery.
+Finally, the woman got a full body scan at a hospital in the city of Qingdao.
+This special medical procedurerevealed she had a chicken bone stuck in her lung.
+(2)Doctors performed surgery and removed the bone.
+Thesimple procedure went smoothly and the woman has recovered fully.
+With the bone finally removed from herlung, the woman is very happy that she no longer suffers from that annoying cough.
+  
+(3-1) A white sheep named Prickles that ran away from an Australian farm during the 2013 bushfires,recently returned home.
+According to farmer Alice Gray, Prickles was only a lamb when she ran away.
+The bushfires that hit thearea back then destroyed a large part of her family's massive property.
+They thought Prickles had died in thefire.
+But instead, (3-2)the young sheep escaped into a 200-acre forest near the farm.
+Once the fires were over,(4)the family had to fix the damage done to the farm, as it was such a large property.
+This included rebuildingabout 50 kilometers of fencing.
+It was this huge fendng that prevented Prickles from finding her way back.
+Over the years, the family spotted her a few times.
+They even recorded her with cameras installed to moni tordeer activity.
+But while they knew Prickles was alive, they couldn't find her and never expected her to returnby herself.
+Seven years later, they were proven wrong.

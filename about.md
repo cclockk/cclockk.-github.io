@@ -8,10 +8,12 @@ This is where you put the contents of your *About* page. Like all your pages, it
    
    
    
+   
 (16)A new study carried out by the University of Lincoln has found a link between the personalities of cat owners and the behaviour and wellbeing of their cats.<br> The findings suggest that, just as a parent's personality can affect the personality of a child, the same is true for a cat and its owner.<br> Owners-defined as individuals with high levels of anxiety, fear, anger, depression and loneliness-were more likely to have cats with behavioural issues.<br> Such cats displayed more aggressive and anxious behavioural styles as well as more stress-related sickness.<br> They were also more likely to have an ongoing medical condition and be overweight.<br> The research also found that mentally well-adjusted owners had calme r, happier and healthier cats.<br> The researchers explained that "Many owners regard their pets as a family member, and form close social bonds with them.<br>" (17)The majority of owners want to provide the best care for their pets and it's therefore possible that pets could be affected by the way their owners interact with and manage them.<br> ( 18) The study highlights an important relationship between our personalities and the wellbeing of our pets.<br> Further research is needed to investigate the causal nature of this relationship and to look at how owners' personalities are directly influencing their pets' behaviour and wellbeing.<br> It is possible that the wellbeing of pets is driven by the underlying nature of the owner, not simply by their conscious decisions and behaviours.<br> 
 
   
-  
+   
+      
 (19-l)"One 60 -minute run can add seven hours to your life .<br>" This was a claim made by The Times last week .<br>
 The claim was based on a new review of studies about the effects of running.<br>
 ( 19-2) The review concluded that on average runners live three years longer than non-runners and that running does more to extend life than any other form of exercise .<br>
@@ -27,6 +29,8 @@ The researchers said moderate exercise appears to have helped those participants
 
   
     
+       
+          
 (22-l)Welcome to the tour of the Hill House.<br>
 This house built in 1904 is one of the most well-knownworks of Charles Hill, the famous architect.<br>
 It was designed and built for a local entrepreneur and his family.<br>

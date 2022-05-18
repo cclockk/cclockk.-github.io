@@ -2,50 +2,25 @@
 
 This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
 
+(5)Tons of gold have fallen out of the sky in Russia after a cargo plane malfunctioned in midair this morning.
 
-Section A  
-(1)A 22-year-old Chinese woman who suffered from a persistent cough was shocked to learn that she had apiece of chicken bone lodged in her lung.  
+The aircraft was carrying 2 65 million pounds worth of gold and diamonds, when the door flew opensending the precious metal back to earth.
 
-The unnamed woman, from the province of Shandong, started to have coughing problems when she was 7 or 8 years old.  
+According to the official news agency, Russian authorities have recovered more than 170 gold bars weighing 20 kilograms each.
 
-For 14 years, she made numerous hospital visits.  
+The plane was traveling from Yakutsk Airport in a major diamond-producing region to the city Krasnoyarsk in Siberia.
 
-However, no doctor could identify anyproblem.  
+(6)However, the aircraft made an emergency landing in Magan after it began losing some of its valuable cargo.
 
-Her uncontrollable coughing was a mystery.  
+Reports suggest some bars of gold were scattered up to 15 miles away from the airport.
 
-Finally, the woman got a full body scan at a hospital in the city of Qingdao.  
+Nine tons of gold on plane AN-12 belonged to a goldmine company.
 
-This special medical procedurerevealed she had a chicken bone stuck in her lung.  
+Police have sealed off the runway, and say it is unclear if it was an accident or an attempted robbery.
 
-(2)Doctors performed surgery and removed the bone.  
+(7)Technical engineers who worked on the plane prior to take-off are reportedly going to be questioned by the police.
 
-Thesimple procedure went smoothly and the woman has recovered fully.  
-
-With the bone finally removed from herlung, the woman is very happy that she no longer suffers from that annoying cough.  
 
   
-(3-1) A white sheep named Prickles that ran away from an Australian farm during the 2013 bushfires,recently returned home.  
-
-According to farmer Alice Gray, Prickles was only a lamb when she ran away.  
-
-The bushfires that hit thearea back then destroyed a large part of her family's massive property.  
-
-They thought Prickles had died in thefire.  
-
-But instead, (3-2)the young sheep escaped into a 200-acre forest near the farm.  
-
-Once the fires were over,(4)the family had to fix the damage done to the farm, as it was such a large property.  
-
-This included rebuildingabout 50 kilometers of fencing.  
-
-It was this huge fendng that prevented Prickles from finding her way back.  
-
-Over the years, the family spotted her a few times.  
-
-They even recorded her with cameras installed to moni tordeer activity.  
-
-But while they knew Prickles was alive, they couldn't find her and never expected her to returnby herself.  
-
-Seven years later, they were proven wrong.  
-
+  
+  M: Hello, you're through to customer service. This is Michael speaking. (8)Before we continue, I just want to make you aware that this call is being recorded and may be used in the future for training purposes. What can I help you with today? W: Hi, my name is Jean Seimon. I recently bought an office chair from your company, but I returned it about a week ago. (9)I'm just calling to inquire when I will be able to get my money back. It says on your website that your company will pay back the money within three working days of you receiving the returned item. But it's been five working days and I haven't received anything. M: I'm sorry to hear that, Miss Seimon. What's your customer reference number, please? W: It's 389460. M: Okay, 389460. I'm just looking on the system here. And according to our records, the chair you returned was received by our warehouse on Friday morning. The payment was made on Wednesday. But this seems to be a problem with your card number. W: My card number? Oh, (l0)maybe it has something to do with my new card. It was sent to me on Tuesday. Maybe the bank canceled my old one before you've made the payment. M: Well, (ll)you'll need to update your card details directly on our website. Just make sure you're logged in. And then under the description of your personal information, you should see an option for updating payment methods. W: I am logged in, and I'll give that a go. M: I'll make a note here on the system for you, so that the payment will be made tomorrow morning. W: Thank you very much. 

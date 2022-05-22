@@ -43,7 +43,7 @@ and become more adaptable to different fields, and take the initiative to learn 
     D) It is witnessing various types of innovations.  
 52. What did Professor O'Keefe find in his earlier studies?  
     A) People's interests tend to change with age.  
-    B) People's interests detem血e their mindsets.  
+    B) People's interests determine their mindsets.  
     C) People are divided about the nature of interest.  
     D) People of different ages have different mindsets.  
 53. What is the focus of Professor O'Keefe's recent research?  

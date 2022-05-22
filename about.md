@@ -37,27 +37,27 @@ and become more adaptable to different fields, and take the initiative to learn 
     
       
 51. What does the author say about the world today?  
-    A) It faces problems that are getting more varied and complicated.
-    B) It has done away with many of the traditional ways of thinking
-    C) It is undergoing radical and profound changes
+    A) It faces problems that are getting more varied and complicated.  
+    B) It has done away with many of the traditional ways of thinking  
+    C) It is undergoing radical and profound changes  
     D) It is witnessing various types of innovations.  
 52. What did Professor O'Keefe find in his earlier studies?  
-    A) People's interests tend to change with age.
-    B) People's interests detem血e their mindsets.
-    C) People are divided about the nature of interest.
+    A) People's interests tend to change with age.  
+    B) People's interests detem血e their mindsets.  
+    C) People are divided about the nature of interest.  
     D) People of different ages have different mindsets.  
 53. What is the focus of Professor O'Keefe's recent research?  
-    A) How boundaries can be removed between arts and science disciplines.
-    B) How feasible it is to create new disciplines like computational economics
-    C) How students in arts and sciences view the two types of mindset of interest.
-    D) How a growth mindset of interest can contribute to cross-disciplinary thinking.
+    A) How boundaries can be removed between arts and science disciplines.  
+    B) How feasible it is to create new disciplines like computational economics  
+    C) How students in arts and sciences view the two types of mindset of interest.  
+    D) How a growth mindset of interest can contribute to cross-disciplinary thinking.  
 54. What does the author want to illustrate with the example of smartphones?  
-    A) Hi-tech products are needed in interdisciplinary research.
-    B) Improved technology gives birth to highly popular products
-    C) Making innovative products needs multidisciplinary knowledge
+    A) Hi-tech products are needed in interdisciplinary research.  
+    B) Improved technology gives birth to highly popular products  
+    C) Making innovative products needs multidisciplinary knowledge  
     D) Hi-tech products can boost people's integrative thinking  
 55. What is the author's suggestion to those who are seeking employment?  
-    A) Leaming practical skills.
-    B) Broadening their interests.
-    C) Staying safe in the pandemic.
+    A) Leaming practical skills.  
+    B) Broadening their interests.  
+    C) Staying safe in the pandemic.  
     D) Knowing their pressing issues

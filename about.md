@@ -2,30 +2,35 @@
 
 This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
 
+Have you ever wondered how acceptable it is to hug or touch someone?   
+While it may sound safe to avoid all physical contact so as not to offend anyone,   
+the lack of touching might imply cold attitudes or indifference in interpersonal relationships.  
 
-Have you ever wondered how acceptable it is to hug or touch someone?  
-While it maysound safe to avoid all physical contact so as not to offend anyone, 
-the lack of touchingmight imply cold attitudes or indifference in interpersonal relationships.  
-So, what should we do?The simple answer is to thoroughly learn unique culturalnorms for physical contact.  
-In nonverbal communication terminology(术语）,physicalcontact and the study of touching are generally referred to as haptics.  
-Haptics in communication often suggest the level of intimacy.  
-They are usuallyclassified into two groups: high-contact and low-contact.  
-Asia and quite surprisingly the United States, Canada and Britain belong tolow-contact cultures.  
-People from the rest of the world, such as Latin America, areconsidered to be in high-contact cultures, 
-where they tend to expect touching in socialinteractions and feel more comfortable with physical closeness.  
-Despite the classification,there are more complex factors such as relational closeness, gender, age, 
-and context thatcan affect how someone views physical contact.  
-One common French custom of greetings is cheek-kissing, but it is mostly restricted tofriends, close acquaintances and family members.  
-While cheek-kissing for Latin Americansis also a universal greeting form, it does not require such a high degree of relationalcloseness.  
-However, gender matters more for them because check-kissing often onlyhappens between women or a man and a woman but not two men.  
-In contrast, in certain Arabian, African, and Asian countries, 
-men can publicly holdhands or show physical affection as signs of brotherhood or friendship  
-while thesebehaviors may suggest a romantic relationship in other parts of the world.  
-Although men'stouching is more normal in these cultures, physical contact between persons of oppositesexes 
-who are not family members is negatively perceived in Arabian countries.  
-These factors could definitely affect the degree to which someone is comfortable withtactile(触觉的）communication and physical intimacy.  
-Therefore, if you are someone wholoves to show physical affection,   
-you should not be afraid to show it or drastically changeyour behaviors—just ask for consent beforehand!  
+So, what should we do? The simple answer is to thoroughly learn unique cultural norms for physical contact.   
+In nonverbal communication terminology (术语), physical contact and the study of touching are generally referred to as haptics.
+Haptics in communication often suggest the level of intimacy.   
+They are usually classified into two groups: high-contact and low-contact.
+Asia and quite surprisingly the United States, Canada and Britain belong to low-contact cultures.  
+People from the rest of the world, such as Latin America, are considered to be in high-contact cultures,   
+where they tend to expect touching in social interactions and feel more comfortable with physical closeness.   
+Despite the classification, there are more complex factors such as relational closeness, gender, age, and context that can affect how someone views physical contact.
+    One common French custom of greetings is cheek-kissing,  
+    but it is mostly restricted to friends,close acquaintances and family members.  
+    While cheek-kissing for Latin Americans is also a universal greeting form,  
+    it does not require such a high degree of relational closeness.  
+    However,gender matters more for them because check-kissing often only happens between women or a man and a woman but not two men.
+In contrast,in certain Arabian,African,and Asian countries,  
+men can publicly hold hands or show physical affection as signs of brotherhood or friendship   
+while these behaviors may suggest a romantic relationship in other parts of the world.  
+Although men's touching is more normal in these cultures,physical contact between persons of opposite sexes   
+who are not family members is negatively perceived in Arabian countries.
+These factors could definitely affect the degree to which someone is comfortable with tactile （触觉的） communication and physical intimacy.   
+Therefore, if you are someone who loves to show physical affection,   
+you should not be afraid to show it or drastically change your behaviors-just ask for consent beforehand!
+
+
+
+ 
   
     
   

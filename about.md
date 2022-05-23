@@ -2,84 +2,29 @@
 
 This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
 
-Have you ever wondered how acceptable it is to hug or touch someone?   
-While it may sound safe to avoid all physical contact so as not to offend anyone,   
-the lack of touching might imply cold attitudes or indifference in interpersonal relationships.  
-
-So, what should we do? The simple answer is to thoroughly learn unique cultural norms for physical contact.   
-In nonverbal communication terminology (术语), physical contact and the study of touching are generally referred to as haptics.
-Haptics in communication often suggest the level of intimacy.   
-They are usually classified into two groups: high-contact and low-contact.
-Asia and quite surprisingly the United States, Canada and Britain belong to low-contact cultures.  
-People from the rest of the world, such as Latin America, are considered to be in high-contact cultures,   
-where they tend to expect touching in social interactions and feel more comfortable with physical closeness.   
-Despite the classification, there are more complex factors such as relational closeness, gender, age, and context that can affect how someone views physical contact.
-    One common French custom of greetings is cheek-kissing,  
-    but it is mostly restricted to friends,close acquaintances and family members.  
-    While cheek-kissing for Latin Americans is also a universal greeting form,  
-    it does not require such a high degree of relational closeness.  
-    However,gender matters more for them because check-kissing often only happens between women or a man and a woman but not two men.
-In contrast,in certain Arabian,African,and Asian countries,  
-men can publicly hold hands or show physical affection as signs of brotherhood or friendship   
-while these behaviors may suggest a romantic relationship in other parts of the world.  
-Although men's touching is more normal in these cultures,physical contact between persons of opposite sexes   
-who are not family members is negatively perceived in Arabian countries.
-These factors could definitely affect the degree to which someone is comfortable with tactile （触觉的） communication and physical intimacy.   
-Therefore, if you are someone who loves to show physical affection,   
-you should not be afraid to show it or drastically change your behaviors-just ask for consent beforehand!
-
-
-
- 
-  
-    
-  
-46. What does the author say in the first paragraph about physical contact?  
-
-A) Its role in interpersonal relationships is getting increasingly important  
-
-B) It is becoming more acceptable to many who used to think it offensive.  
-
-C) Its absence might suggest a lack of warmth in interpersonal relationships  
-
-D) It might prompt different responses from people of different social backgrounds    
-
-47. What does physical contact in communication suggest?   
-
-A) What social class people belong to  
-  
-B) How civilized the communicators are.  
-
-C) What family background people come from  
-
-D) How close the communicators' relationships are.  
-
-48. What do we learn about people in high-contact cultures?  
-49. 
-A) They are sensitive to the way people express their emotions  
-
-B) They take touching as a cultural norm in social interactions.  
-
-C) They attach great importance to close ties among people  
-
-D) They tend to be more open in interpersonal relationships  
-
-49. What do we learn about social customs in Arabian countries?  
-50. 
-A) Men can show friendship in public through physical affection  
-
-B) Non-trad山onal romantic relationships are simply unacceptable  
-
-C) Physical contact between unfamiliar people is negatively perceived  
-
-D) People of different ages and genders show affection in different ways  
-
-50. What does the author tell us to do concerning tactile communication?  
-51. 
-A) Lay emphasis on nonverbal communication.  
-
-B) Learn to use appropriate body language first  
-
-C) Pay attention to the differences between genders.  
-
-D) Take other people's preference into consideration.
+Why it matters that teens are reading less
+A)Most of us spend much more time with digital media than we did a decade ago.But today's teens have grown up with smartphones.Compared with teens a couple of decades ago,the way they interact with traditional media like books and movies is fundamentally different.
+B)Analysis of surveys of over one million teens in the United States collected since 1976 reveals a major shift in how teens are spending their leisure time.Paper books are being ignored,in favor of screens.Digital devices are changing other behaviors,too.More and more,young people choose spending time on their electronic devices over engaging in other activities,regardless of the type.Indeed,by 2016,the average American high school senior said they spent six hours a day writing text messages,on social media, and online during their free time.And that covers just three activities,and if other digital media activities were included,that estimate would no doubt rise.
+C )Teens did not always spend that much time with digital media.Online time has doubled since 2006,and social media use has moved from a periodic activity to a daily one in the same period.By 2016,nearly nine out of ten young women in the 12th grade said they visited social media sites every day.Meanwhile,time spent playing video games rose from under an hour a day to an hour and a half on average.One out of ten American 8th grade students in 2016 spent 40 hours a week or more playing video games.Let me emphasize that this is equal to the time most adults spend per week at work.
+D) If teens are spending so much time using electronic devices,does that mean they have to give up some other activities?Maybe not.Over the years,many scholars have insisted that time online does not necessarily take away time spent engaging with traditional media or on other activities.Some people,they argue,are just more interested in certain kinds of media and entertainment.Thus,using more of one type of media does not necessarily mean less of the other.
+That may be true,but that still does not tell us much about what happens across a whole generation of people when time spent on digital media grows.Large surveys conducted over the course of many years tell us that American youth are not going to the cinema nearly as often as they did in the past.While 70 percent of 8th and 10th grade students used to go to the movies once a month or more,now only about half do this.More and more,watching a movie is something teens choose to do on their electronic devices.
+Why is this a problem?One reason is that going to the cinema is generally a social activity.Now,watching movies is something that most teens do alone.This fits a larger pattern.In another analysis,researchers found that today's teens go out with their friends much less often than previous generations did.
+F)But the trends related to movies are less disturbing compared with the change in how teens spend their time.Research has revealed an enormous decline in reading.In 1980, about 60 percent of senior high school students said they read a book,newspaper or magazine every day that was not assigned for school.By 2016,only 16 percent did.
+This is a huge drop and it is important to note that this was not merely a decline in reading paper books,newspapers or magazines.The survey allowed for reading materials on a digital device.
+G) Indeed, the number of senior high school students who said they had not read any books for pleasure in the last year was one out of three by 2016. That is triple the number from two decades ago. For today's youth, books, newspapers and magazines have less and less of a presence in their daily lives. Of course, teens are still reading.
+But they are generally reading short texts. Most of them are not reading long articles or books that explore deep themes and require critical thinking and reflection. Perhaps not accidentally, in 2016 reading scores were the lowest they have ever been since 1972.
+H) This might present problems for young people later on. When high school students go on to college, their past and current reading habits will influence their academic performance. Imagine going from reading texts as short as one or two sentences to trying to read entire books written in complex language and containing sophisticated ideas. Reading and comprehending longer books and chapters takes practice, and American teens are no longer getting that practice.
+So how can this problem be solved? Should parents and teachers take away teens’
+smartphones and replace them with paper books? Probably not. Research has shown that smartphones are currently American teens' main form of social communication.
+This means that, without a smartphone, teens are likely to feel isolated from their peers.
+However, that does not mean teens need to use electronic devices as often as they do now. Data connecting excessive digital media time to mental health issues suggests a limit of two hours a day of free time spent with screens, a restriction that will also allow time for other activities-like going to the movies with friends or reading longer, more complicated texts.
+J) The latter is especially important. I would argue that of all the changes brought about by the widespread use of digital devices, the huge decline in reading is likely to have the biggest negative impact on today's teens because reading books and longer articles is one of the best ways to learn critical thinking. It helps people to understand complex issues and to separate fact from fiction. Thus, deep reading is crucial for being a good citizen, a successful college student and a productive employee. If serious reading dies, a lot will go with it.
+36. Many years' surveys reveal that young people in America are going to the cinema much less often than they used to.
+37. Survey analysis shows American teens now spend their leisure time on digital devices rather than reading printed books.
+38. The number of senior high schoolers not reading books for pleasure in a year increased three times over 20 years.
+39. Many scholars claim that spending time on electronic devices doesn't necessarily mean a decrease of time for other activities.
+41.The author claims that it will be a great loss if we no longer read books and longer articles.
+42.Over a decade or so,American teens'social media use shifted from an occasional activity to a routine one.
+43.A more disturbing trend in America today is that teens are spending far less time reading than around four decades ago.
+44.Some five years ago,high school seniors in America generally spent more than six hours a day on electronic devices.
+45.It was found that American youngsters today don't socialize nearly as much as the earlier generations.
